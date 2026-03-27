@@ -1,8 +1,8 @@
-# Olá, eu sou Thiago Arruda 👋
+# Olá, eu sou Thiago Arruda 
 
-🎓 Bacharel em Sistemas de Informação  
-🔐 Pós-graduação em Segurança da Informação  
-🛠️ Interesse em Hardware, Suporte Técnico e Infraestrutura
+Bacharel em Sistemas de Informação  
+Pós-graduação em Segurança da Informação  
+Interesse em Hardware, Suporte Técnico e Infraestrutura
 
 ## Conhecimentos
 
