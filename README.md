@@ -1,7 +1,8 @@
 # Olá, eu sou Thiago Arruda 
 
-Sou um profissional focado em Suporte Técnico, Hardware e Infraestrutura. Gosto de desmontar, diagnosticar e entender como as coisas funcionam. Nas horas vagas, uso a tecnologia e a programação para criar ferramentas que facilitam o dia a dia da manutenção.
+Bacharel em Sistemas de Informação e Especialista em Testes de Software. Sou apaixonado por desmontar problemas complexos e criar soluções simples através do código.
 
-Bacharel em Sistemas de Informação  
-Pós-graduação em Segurança da Informação  
-Interesse em Hardware, Suporte Técnico e Infraestrutura
+Foco atual: Automação de Testes e Desenvolvimento com Python.
+Projetos: Sistemas de PDV, Gestão de OS e ferramentas de automação.
+Interesses: Qualidade de Software (QA), Segurança da Informação e Infraestrutura.
+
